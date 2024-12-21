@@ -16,6 +16,7 @@ The project uses six key datasets, each serving a specific purpose in the analys
 - **Gender:** Gender of the customer.
 - **Postcode:** Postal code of the customer's location.
 - **City:** City of the customer's residence.
+  
 **Purpose:** Used for demographic analysis and linking customer data with transactions.
 
 ### 1.2 CustomerDetails_2
@@ -25,6 +26,7 @@ The project uses six key datasets, each serving a specific purpose in the analys
 - **LastName:** Last name of the customer.
 - **Income:** Income bracket of the customer.
 - **Name:** Full name concatenation (if available).
+  
 **Purpose:** Supplementary demographic information, particularly income data.
 
 ### 1.3 CustomerTransactions
@@ -37,6 +39,7 @@ The project uses six key datasets, each serving a specific purpose in the analys
 - **PaymentTypeID:** Identifier for payment method used.
 - **SellingChannelCode:** Code for the selling platform/channel.
 - **CommissionRate:** Commission applied on the transaction.
+  
 **Purpose:** Core dataset for sales and financial analysis.
 
 ### 1.4 GenerateDateTime
@@ -52,12 +55,14 @@ The project uses six key datasets, each serving a specific purpose in the analys
 - **WeekOfYear:** Week number of the year.
 - **MonthName:** Name of the month (e.g., January).
 - **CalendarYear:** Year value.
+  
 **Purpose:** Used for temporal analysis and trend identification.
 
 ### 1.5 PaymentData
 **Description:** Contains details about payment methods.
 - **RetailPaymentTypeID:** Identifier for the payment type.
 - **Name:** Name of the payment method (e.g., Credit Card, Cash).
+  
 **Purpose:** Payment insights and correlation with transaction metrics.
 
 ### 1.6 SellingChannels
@@ -66,6 +71,7 @@ The project uses six key datasets, each serving a specific purpose in the analys
 - **Code:** Channel-specific code.
 - **Name:** Name of the sales platform (e.g., Amazon, Shopify).
 - **CommissionRate:** Commission percentage applicable to the channel.
+  
 **Purpose:** Analysis of sales performance across different channels.
 
 ## 2. Database Design
