@@ -90,16 +90,7 @@ The database was structured with a **CustomerTransactions Fact Table**, supporte
 - Perform detailed analysis across demographic, income, location, channel, and payment dimensions.
 - Generate actionable insights for strategic decision-making.
 
-## 5. Project Structure
-```
-/SQL_Customer_Transactions
-│
-├── data/
-├── sql/
-├── README.md
-```
-
-## 6. Contact Information
+## 5. Contact Information
 - **Developer:** Nirmalkumar J. Shiroya
 - **Email:** nirmal31314@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/nirmalkumar-shiroya-180620118/
