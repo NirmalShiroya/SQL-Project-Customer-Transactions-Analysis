@@ -7,7 +7,7 @@ This project analyzes customer transactions using SQL, focusing on demographic, 
 ## 1. Datasets Overview
 The project uses six key datasets, each serving a specific purpose in the analysis:
 
-### 1.1 CustomerDetails_1.csv
+### 1.1 CustomerDetails_1
 **Description:** Contains essential customer demographic details.
 - **CustomerID:** Unique identifier for each customer.
 - **CustomerName:** Full name of the customer.
@@ -18,7 +18,7 @@ The project uses six key datasets, each serving a specific purpose in the analys
 - **City:** City of the customer's residence.
 **Purpose:** Used for demographic analysis and linking customer data with transactions.
 
-### 1.2 CustomerDetails_2.csv
+### 1.2 CustomerDetails_2
 **Description:** Provides additional customer details, including income and naming conventions.
 - **CustomerCode:** Alternate unique identifier for customers.
 - **FirstName:** First name of the customer.
@@ -27,7 +27,7 @@ The project uses six key datasets, each serving a specific purpose in the analys
 - **Name:** Full name concatenation (if available).
 **Purpose:** Supplementary demographic information, particularly income data.
 
-### 1.3 CustomerTransactions.csv
+### 1.3 CustomerTransactions
 **Description:** Records transaction-level data for each customer.
 - **DateKey:** Key linking to the date table.
 - **InvoiceNumber:** Unique invoice number for each transaction.
@@ -39,7 +39,7 @@ The project uses six key datasets, each serving a specific purpose in the analys
 - **CommissionRate:** Commission applied on the transaction.
 **Purpose:** Core dataset for sales and financial analysis.
 
-### 1.4 GenerateDateTime.csv
+### 1.4 GenerateDateTime
 **Description:** Provides a calendar-based reference table for date and time-related insights.
 - **DateKey:** Unique identifier for each date.
 - **FullDate:** Complete date string.
@@ -54,13 +54,13 @@ The project uses six key datasets, each serving a specific purpose in the analys
 - **CalendarYear:** Year value.
 **Purpose:** Used for temporal analysis and trend identification.
 
-### 1.5 PaymentData.csv
+### 1.5 PaymentData
 **Description:** Contains details about payment methods.
 - **RetailPaymentTypeID:** Identifier for the payment type.
 - **Name:** Name of the payment method (e.g., Credit Card, Cash).
 **Purpose:** Payment insights and correlation with transaction metrics.
 
-### 1.6 SellingChannels.csv
+### 1.6 SellingChannels
 **Description:** Provides data about various sales platforms/channels.
 - **SellingChannelID:** Unique identifier for each channel.
 - **Code:** Channel-specific code.
