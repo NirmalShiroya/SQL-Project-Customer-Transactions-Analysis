@@ -96,6 +96,15 @@ The database was structured with a **CustomerTransactions Fact Table**, supporte
 - Perform detailed analysis across demographic, income, location, channel, and payment dimensions.
 - Generate actionable insights for strategic decision-making.
 
+## 5. Results   
+
+![MostProfitableByMonth](https://github.com/user-attachments/assets/69f676dc-47c8-4204-9583-b2ec65293dc3)
+![SellingChannels](https://github.com/user-attachments/assets/843879de-a0ba-4312-a950-9a9447faa8c5)
+![PaymentTypeAnalysis](https://github.com/user-attachments/assets/26ebc001-d7b4-4d18-ac69-586554470751)
+![Location Analysis](https://github.com/user-attachments/assets/b3fb846f-40a0-465d-8e28-ee9fbd8fa541)
+
+
+
 ## 5. Contact Information
 - **Developer:** Nirmalkumar J. Shiroya
 - **Email:** nirmal31314@gmail.com
