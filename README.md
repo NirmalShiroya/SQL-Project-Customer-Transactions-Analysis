@@ -100,7 +100,7 @@ The database was structured with a **CustomerTransactions Fact Table**, supporte
 
 ![MostProfitableByMonth](https://github.com/user-attachments/assets/69f676dc-47c8-4204-9583-b2ec65293dc3)
 
-![SellingChannels](https://github.com/user-attachments/assets/843879de-a0ba-4312-a950-9a9447faa8c5)
+![SellingChannelsAnalysis](https://github.com/user-attachments/assets/ce7bebad-bab8-4c83-b9ea-f76750d6a324)
 
 ![PaymentTypeAnalysis](https://github.com/user-attachments/assets/26ebc001-d7b4-4d18-ac69-586554470751)
 
