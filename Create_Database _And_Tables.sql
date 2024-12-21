@@ -1,6 +1,6 @@
 -- Create Database SalesDatabase
 
- Create Database BlueSky_22082809
+ Create Database BlueSky
 
 -- Create CustomerDetail-1 Dimension Table
 
